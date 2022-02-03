@@ -1,0 +1,26 @@
+{
+  "name": "learnsockets.io",
+  "version": "1.0.0",
+  "description": "Here I learnt socket.io from Learn Code Online ( Youtube )",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iswarmondal/learnSockets.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iswarmondal/learnSockets.io/issues"
+  },
+  "homepage": "https://github.com/iswarmondal/learnSockets.io#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nanoid": "^3.2.0",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  }
+}
